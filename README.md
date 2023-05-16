@@ -8,4 +8,5 @@
   <br>
   Project consists of complex JavaScript techniques and utilizes different algorithms to attain solutions.
 </p>
+<br>
 <p> Project is not deployed to the cloud. Please clone/fork Project and run it locally to obtain the original project. </p>
