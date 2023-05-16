@@ -9,4 +9,14 @@
   Project consists of complex JavaScript techniques and utilizes different algorithms to attain solutions.
 </p>
 <br>
+#### To download into local machine:  
+
+- **fork** the repository
+
+- **clone** the repository
+
+- **npm install**
+
+- **npm start**
+
 <p> Project is not deployed to the cloud. Please clone/fork Project and run it locally to obtain the original project. </p>
