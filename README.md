@@ -21,4 +21,4 @@
 - **npm start**
   </p>
 
-<p> Project is not deployed to the cloud. Please clone/fork Project and run it locally to obtain the original project. </p>
+<p> Project is not deployed to the cloud. Please fork and clone the project and run it locally. </p>
